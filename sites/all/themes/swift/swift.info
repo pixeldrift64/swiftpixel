@@ -1,0 +1,15 @@
+name = Swift
+description = Theme based on 'Twenty' by HTML5 UP.
+version = 1.0
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = css/main.css
+
+scripts[] = js/jquery.min.js
+scripts[] = js/jquery.dropotron.min.js
+scripts[] = js/jquery.scrolly.min.js
+scripts[] = js/jquery.scrollgress.min.js
+scripts[] = js/skel.min.js
+scripts[] = js/util.js
+scripts[] = js/main.js
