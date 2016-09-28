@@ -97,10 +97,10 @@
 						<header>
 							<h2><a href="<?php print $front_page; ?>"><?php print $site_name; ?></a></h2>
 						</header>
-            <p>a <strong>Web Design</strong> venture with
+            <p><strong>Web Design & Support</strong> with
 						<br />
 						passion and commitment
-						<br>
+						<br />
 						to <strong>quality</strong></p>
 
 					</div>

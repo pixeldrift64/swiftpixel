@@ -100,7 +100,7 @@
 						<header>
 							<h2><a href="<?php print $front_page; ?>"><?php print $site_name; ?></a></h2>
 						</header>
-						<p>a <strong>Web Design</strong> venture with
+						<p><strong>Web Design & Support</strong> with
 						<br />
 						passion and commitment
 						<br />
@@ -123,7 +123,7 @@
 						<h2>We're passionate about the web.
 						<br />
 						We want to show you what it can really do!</h2>
-						<p>SwiftPixel is a startup freelance web design company providing quality products for our clients.</br>
+						<p>SwiftPixel is a startup web design company providing quality products for our clients.</br>
             We love what we do, and we want to make sure that is conveyed in every nook and cranny of the stuff we produce.</br>
             We'll pour our hearts out into ensuring that all our products are well polished and completely to our clients' liking.</p>
 					</header>
